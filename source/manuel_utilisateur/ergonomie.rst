@@ -14,28 +14,8 @@ Connexion
 La connexion à OpenRésultat se déroule en deux étapes : d'abord le choix de la collectivité ou de l'application et ensuite la saisie des informations de connexion de l'utilisateur.
 
 
-
-Hébergement atReal Collectivités
---------------------------------
-
-Lors d'un hébergement atReal Collectivités, vous avez accès à l'interface de choix de votre application.
-En cliquant sur l'application openRésultat, vous aurez accès au formulaire d'identification.
-
-|picture_11|
-
-Figure  : « choix de l'application métier »
-
-Cette figure présente l'écran d'identification, il faut saisir son login et son mot de passe puis cliquer sur le bouton « Valider ». Le login et le mot de passe doivent être saisis en respectant les minuscules et majuscules.
-Si les identifiants entrés sont incorrects, un message d'erreur apparaît et il faut ressaisir les informations de connexion.
-
-
-|picture_28|
-
-Figure  : « identification »
-
-
-Interface classique
--------------------
+Écran d'identification
+----------------------
 
 C'est le premier écran du logiciel, il contient uniquement des liens qui permettent d'entamer une connexion à l'application.
 
