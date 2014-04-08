@@ -1,8 +1,7 @@
-.. openresultat documentation master file, created by
-   sphinx-quickstart on Fri Nov  8 18:15:19 2013.
+.. openresultat documentation master file.
 
 ===============================
-openRésultat 1.09 documentation
+openRésultat 1.10 documentation
 ===============================
 
 .. note::
@@ -35,6 +34,14 @@ Manuel de l'utilisateur
 .. toctree::
 
    manuel_utilisateur/index.rst
+
+
+Historique de versions
+======================
+
+.. toctree::
+
+   history/index.rst
 
 
 Contributeurs
