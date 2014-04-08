@@ -37,6 +37,14 @@ Manuel de l'utilisateur
    manuel_utilisateur/index.rst
 
 
+Historique de versions
+======================
+
+.. toctree::
+
+   history/index.rst
+
+
 Contributeurs
 =============
 
