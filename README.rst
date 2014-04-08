@@ -1,4 +1,4 @@
-Documentation openRésultat version 1.13 (non publiée)
+Documentation openRésultat version 1.14 (non publiée)
 =====================================================
 
 .. image:: https://travis-ci.org/openmairie/openresultat-documentation.png?branch=master
