@@ -11,8 +11,8 @@ v1.14 (non publiée)
 * Remplacement des affichages WEB, MOBILE et BORNE par un affichage unique
   SITE WEB ADAPTATIF (web responsive design).
 * Suppression de l'affichage WEB GOOGLE.
-* Ajout d'un état 'résultats globaux' supplémentaire.
-* Ajout d'un état 'proclamation' supplémentaire.
+* Ajout d'un état PDF 'résultats globaux' supplémentaire.
+* Ajout d'un état PDF 'proclamation' supplémentaire.
 
 
 v1.13 (12/03/2014)
@@ -22,8 +22,8 @@ v1.13 (12/03/2014)
   conseillers communautaires lors d'une élection municipale.
 * Mise à jour réglementaire de l'export préfecture selon les nouvelles 
   modalités.
-* Ajout de trois états 'proclamation'.
-* Ajout d'un état 'résultats globaux'.
+* Ajout de trois états PDF 'proclamation'.
+* Ajout d'un état PDF 'résultats globaux'.
 
 
 v1.12 (29/03/2012)
