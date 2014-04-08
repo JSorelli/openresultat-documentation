@@ -129,7 +129,7 @@ Figure  : « paramétrage liste municipale »
 
 .. |picture_19| image:: picture_19.png
 
-.. |picture_44| image:: picture_44.gif
+.. |picture_44| image:: picture_44.png
 
 .. |picture_43| image:: picture_43.png
 

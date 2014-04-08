@@ -142,7 +142,7 @@ En effet, cette application étant une solution Web, certaines actions sont perm
 .. |picture_29| image:: picture_29.png
 
 
-.. |picture_44| image:: picture_44.gif
+.. |picture_44| image:: picture_44.png
 
 
 .. |picture_37| image:: picture_37.png
