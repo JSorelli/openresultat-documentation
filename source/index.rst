@@ -2,7 +2,7 @@
    sphinx-quickstart on Fri Nov  8 18:15:19 2013.
 
 ===============================
-openRésultat 1.13 documentation
+openRésultat 1.14 documentation
 ===============================
 
 .. note::
