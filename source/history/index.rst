@@ -8,6 +8,7 @@ Historique de versions
 v1.14 (non publiée)
 ===================
 
+* Règlementaire : gestion séparée des votes blancs et des votes nuls.
 * Remplacement des affichages WEB, MOBILE et BORNE par un affichage unique
   SITE WEB ADAPTATIF (web responsive design).
 * Suppression de l'affichage WEB GOOGLE.

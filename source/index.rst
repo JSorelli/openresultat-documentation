@@ -28,6 +28,14 @@ Bonne lecture et n'hésitez pas à nous faire part de vos remarques à l'adresse
 suivante : contact@openmairie.org !
 
 
+Historique de versions
+======================
+
+.. toctree::
+
+   history/index.rst
+
+
 Manuel de l'utilisateur
 =======================
 
@@ -36,12 +44,12 @@ Manuel de l'utilisateur
    manuel_utilisateur/index.rst
 
 
-Historique de versions
-======================
+Guide du développeur
+====================
 
 .. toctree::
 
-   history/index.rst
+   guide_developpeur/index.rst
 
 
 Contributeurs
