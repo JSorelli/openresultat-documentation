@@ -26,5 +26,35 @@ Mettre à niveau openRésultat de 1.13 vers 1.14
    ...
 
 * Configurer le nouvel affichage web.
-
-* ...
+  
+  Renseigner la liste des plans.
+  Exemple d'utilisation de la variable $plans :
+  
+  $plans = array(
+    "centre.gif" => array (
+    
+        'img' => 'img/plan/centre.gif',
+        
+        'libelle' => 'Secteur Nord',
+        
+        'id' => 'secteur-nord',
+        
+    ),
+    
+    "quartier.gif" => array (
+    
+        'img' => 'img/plan/quartier.gif',
+        
+        'libelle' => 'Secteur Sud',
+        
+        'id' => 'secteur-sud',
+        
+    ),
+    
+  );
+  
+  Renseigner les informations sur la collectivité.
+  Liste des entrées de la variable $infos_collectivite :
+    - title : nom de la collectivité
+    - logo : lien vers le logo (img/logo.png)
+    - url : lien vers le site web de la collectivité (doit commencer par http)
