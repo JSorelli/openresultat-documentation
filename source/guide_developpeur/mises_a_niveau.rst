@@ -55,6 +55,7 @@ Mettre à niveau openRésultat de 1.13 vers 1.14
   
   Renseigner les informations sur la collectivité.
   Liste des entrées de la variable $infos_collectivite :
-    - title : nom de la collectivité
-    - logo : lien vers le logo (img/logo.png)
-    - url : lien vers le site web de la collectivité (doit commencer par http)
+  
+  - title : nom de la collectivité
+  - logo : lien vers le logo (img/logo.png)
+  - url : lien vers le site web de la collectivité (doit commencer par http)
