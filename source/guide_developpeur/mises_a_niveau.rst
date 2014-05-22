@@ -28,8 +28,17 @@ Mettre à niveau openRésultat de 1.13 vers 1.14
 * Configurer le nouvel affichage web.
   
   Renseigner la liste des plans.
+
+  Il faut faire une entrée pour chaque plan que possède la collectivité,
+  la clés de cette entrée doit être le nom de l'image. Chaque entrée comporte
+  trois informations :
+
+  - img : lien vers l'image
+  - libelle : nom du plan
+  - id : identifiant du plan
+
   Exemple d'utilisation de la variable $plans :
-  
+
   $plans = array(
     "centre.gif" => array (
     
@@ -54,8 +63,9 @@ Mettre à niveau openRésultat de 1.13 vers 1.14
   );
   
   Renseigner les informations sur la collectivité.
+
   Liste des entrées de la variable $infos_collectivite :
-  
+
   - title : nom de la collectivité
   - logo : lien vers le logo (img/logo.png)
   - url : lien vers le site web de la collectivité (doit commencer par http)
