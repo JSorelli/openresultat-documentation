@@ -5,7 +5,7 @@ Historique de versions
 ######################
 
 
-v1.14 (non publiée)
+v1.14 (21/05/2014)
 ===================
 
 * Règlementaire : gestion séparée des votes blancs et des votes nuls.
