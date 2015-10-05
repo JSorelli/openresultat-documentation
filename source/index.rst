@@ -1,7 +1,7 @@
 .. openresultat documentation master file.
 
 ===============================
-openRésultat 1.14 documentation
+openRésultat 1.15 documentation
 ===============================
 
 .. note::
@@ -60,3 +60,4 @@ Contributeurs
 * `atReal <http://www.atreal.fr>`_
 * Sophie Lacroix
 * Florent Michon
+* Sofien Timezouaght
