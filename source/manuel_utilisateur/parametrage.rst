@@ -24,17 +24,17 @@ Les éléments paramétrables sont :
 
   - commune : pour le regroupement en cas d'élection législative ou cantonale...
 
-  - tranche : 
+  - tranche : tranches d'horaire pour les élections.
 
-  - type élection :
+  - type élection : les différents types d'élection.
 
-  - parti :
+  - parti : liste des partis politique.
 
-  - candidat : 
+  - candidat : liste des candidats des élections.
 
-  - groupe : 
+  - groupe : liste des groupes politique.
 
-  - liste municipale :
+  - liste municipale : les listes municipales.
 
 L’utilisateur doit faire attention au fait que s’il supprime un enregistrement utilisé dans d’autres tables, des données seront inutilisables.
 
@@ -91,32 +91,44 @@ Candidats
 
 Lors de la création d'un candidat, le parti et le groupe auxquels il appartient doivent avoir été créé.
 
-Lors d'une élection municipale ou européenne ou quelconque élection dans laquelle une liste est candidate, il suffit de remplir le nom de la liste dans le champ nom et de remplir le champ prénom avec un espace.
+Lors d'une élection municipale ou européenne ou quelconque élection dans laquelle une liste est candidate, il suffit de remplir le nom de la liste dans le champ libellé 1 et de remplir le champ libellé 2 avec un espace.
 
 |picture_13|
 
 Figure  : « formulaire du candidat »
 
 
+Types d'élection
+----------------
+
+Depuis le menu :menuselection:`Paramétrage --> Types d'élection`
+
+Le formulaire d'un type d'élection est composé de trois champs :
+
+*  **L'identifiant** : identifiant du type d'élection utilisée lors de la création d'une élection. Il doit être unique et composé de lettre uniquement.
+*  **Le code** : code du type d'élection réglementaire (CAN, DEP, EUR, LEG, MUN, PRE, REF, REG) utilisé pour la transmission des résultats en préfecture.
+*  **Le nom** : nom du type d'élection.
+
+|picture_45|
+
+La liste des types d'élection est sur trois colonnes pour afficher tous les champs.
+
+|picture_46|
+
+Lors de certaine élection (dans le cas de multi-circonscriptions), il peut être nécessaire de créer plusieurs types d'élection ayant le même type réglementaire.
+
+Cette manipulation a été nécessaire dans le cas des départementales de 2015. Les communes ayant des cantons d'une autre circonscription doivent saisir les résultats des bureaux de vote dans une élection différente.
+
+Pour faire deux élections départementales simultanément :
+il faut créer un nouveau type d'élection en cliquant sur le bouton "+" dans le coin gauche du tableau des types d'élection, saisir un identifiant différent de "DEP" qui est déjà existant (par exemple "DP2"). Le code doit, pour assurer la transmission à la préfecture, être le code réglementaire de l'élection (dans ce cas précis "DEP").
+Lors de la création des élections, il faut choisir le type "DEP" pour l'une et "DP2" pour l'autre et ainsi avoir deux élections départementales simultanément sur la même période.
 
 
-
+.. Liste des images
 .. |picture_22| image:: picture_22.png
-
-
-
 .. |picture_30| image:: picture_30.png
-
-
-
 .. |picture_36| image:: picture_36.png
-
-
-
 .. |picture_39| image:: picture_39.png
-
-
-
 .. |picture_13| image:: picture_13.png
-
-
+.. |picture_45| image:: picture_45.png
+.. |picture_46| image:: picture_46.png

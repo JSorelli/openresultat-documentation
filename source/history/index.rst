@@ -4,9 +4,21 @@
 Historique de versions
 ######################
 
+v1.15 (19/03/2015)
+==================
+
+* Modification du formulaire des types d'élection pour ajouter plusieurs
+  élections du même type sur la même période.
+* Correction de l'affichage de certains états.
+* Amélioration du contrôle de saisit dans la plupart des formulaires.
+* Modification du nom des champs pour les candidats, ce n'est pas forcément nom
+  et prénom à chaque fois. Pour chaque écran de l'application, le libellé 1
+  (anciennement le nom) sera affiché avant le libellé 2 (anciennement le prénom)
+  lorsqu'il s'agit d'un candidat.
+
 
 v1.14 (21/05/2014)
-===================
+==================
 
 * Règlementaire : gestion séparée des votes blancs et des votes nuls.
 * Remplacement des affichages WEB, MOBILE et BORNE par un affichage unique
